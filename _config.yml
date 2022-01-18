@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "천궁"
-  avatar           : "/images/$(filename)/bio-photo.png"
+  avatar           : "/images/bio-photo.png"
   bio              : "공부하는 김천궁."
   location         : "Somewhere"
   email            :
