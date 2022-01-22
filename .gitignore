@@ -27,3 +27,15 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+_posts/2022-01-19-1.md
+*.ipch
+*.db-shm
+*.db
+*.db-wal
+*.opendb
+.vs/CheonGung.github.io/v16/.suo
+*.sqlite
+.vs/CheonGung.github.io/v16/.suo
+.vs/slnx.sqlite
+.vs/CheonGung.github.io/v16/.suo
+_posts/2022-01-19-1.md
