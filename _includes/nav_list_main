@@ -39,6 +39,14 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+        <span class="nav__sub-title">Music</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "J-Music" %}
+                        <li><a href="/categories/J-Music" class="">J-Music ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
       </li>
   </ul>
 </nav>
