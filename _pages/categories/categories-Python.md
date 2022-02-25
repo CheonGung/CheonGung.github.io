@@ -1,11 +1,11 @@
 ---
-title: "J-Music"
+title: "Python"
 layout: archive
-permalink: categories/J-Music
+permalink: categories/Python
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.J-Music %}
+{% assign posts = site.categories.Python %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
